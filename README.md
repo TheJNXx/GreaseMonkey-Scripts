@@ -43,7 +43,7 @@ A translation button that sits in the bottom-right corner of the webpage. It use
 ## 📦 Installation
 
 1. Install [Cromite](https://github.com/uazo/cromite/releases) in Android
-2. [Choose your script](https://codeberg.org/TheJNXx/GreaseMonkey-Scripts/src/branch/main/scripts)
+2. [Choose your script](https://github.com/TheJNXx/GreaseMonkey-Scripts/tree/main/scripts)
 3. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
    
 
