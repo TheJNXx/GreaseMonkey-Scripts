@@ -1,4 +1,4 @@
-![banner](/images/banner.png)
+![banner](/banner.png)
 
 # GreaseMonkey Scripts
 
